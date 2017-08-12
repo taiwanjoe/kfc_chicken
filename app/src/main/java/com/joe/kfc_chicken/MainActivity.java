@@ -19,6 +19,7 @@ int aaa;
         setSupportActionBar(toolbar);  // joe test
 
         aaa++;  //joe
+        aaa++;  //joe
 
         FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
         fab.setOnClickListener(new View.OnClickListener() {
